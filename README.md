@@ -1,6 +1,4 @@
-￼
-
-PROJETO
+### PROJETO
 
 Uma template simples do meu antigo site com um sistema simples de loja, com l botão comprar que pode se redirecionar a um link de pagamento de algum app.
 
@@ -9,15 +7,15 @@ Uma template simples do meu antigo site com um sistema simples de loja, com l bo
 • Uso simples
 • Site organizado
 
-SOBRE O SITE
+### SOBRE O SITE
 
 O site foi desenvolvido como portfólio, mas acabei adotando o conteúdo de loja também, tendo uma opção de comprar produtos que eu fiz.
 
-SEGURANÇA
+### SEGURANÇA
 
 O site não apresenta nenhuma segurança, pois foi feito para o uso simples.
 
-CÓDIGOS
+### CÓDIGOS
 
 Para voltar a página inicial e outros esquemas utilizo um código que me manda ao domínio do site, no caso esse :
 
